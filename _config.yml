@@ -9,7 +9,7 @@ name: Rebecca Vitale
 description: class at General Assembly!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://apod.nasa.gov/apod/ap160610/image/1606/NGC-6888-6-3-16MillerWalker1024.jpg
+avatar:
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github:  forzavitale
   instagram:  instagram.com/forzavitale
-  linkedin:  https://www.linkedin.com/in/revitale
+  linkedin:  linkedin.com/in/revitale
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
