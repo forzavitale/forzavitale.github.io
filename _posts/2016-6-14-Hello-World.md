@@ -2,6 +2,6 @@
 layout: HeLlO wOrLd
 title: I am here!
 ---
-good morning, here is a nice plot
+good morning!
 
-!(../images/SAT_chart.png)
+![here is a nice plot!](../images/SAT_chart.png)
