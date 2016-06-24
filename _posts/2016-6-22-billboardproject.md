@@ -1,18 +1,24 @@
 ---
 layout: Billboard Chart Project
-title: Billboard Project
+title: Making the Chart: Neeeed a Liiiittle Patience? (...thanks, G'n'R)
 ---
-Wouldn't it be great to be able to predict Billboard song behavior??  
+Wouldn't it be great if we could predict Billboard song behavior??  
 
-Investigating the provided information -- which includes data on 317 different
-songs from the year 2000 -- we can study various relationships between
-variables.  After some cleaning, we can see from these boxplots that songs tend
-to enter lower and then peak. This occurs, on average, after about seven weeks.
+We investigated the information provided -- which includes data on 317 different
+songs hitting the Billboard chart from the year 2000 -- and studied several
+relationships between independent variables.  These variables are: song length,
+chart entry position, peak chart position, and weeks elapsed from entry until
+peak.  After some cleaning, we can see from the box plots here below that songs
+tend to enter lower and then peak (instead of peaking and dropping off the
+chart, for example).  Peak position is attained, on average, about seven weeks
+after entry on the chart.
 
 ![barplot](../images/billboardbar.png)
 
-Song length is, perhaps unsurprisingly due to human attention span and other
-factors, pretty normally distributed around four minutes just at a glance:
+Song length is -- perhaps unsurprisingly (due to human attention span and other
+factors such as commercial demand for radio airtime) -- pretty normally
+distributed around four minutes, just at a glance.  We can see this nicely
+illustrated in the following histogram:
 
 ![barplot](../images/songhisto.png)
 
@@ -27,6 +33,7 @@ we can see in this scatterplot:
 
 ![barplot](../images/peakregression.png)
 
-But, unfortunately, using a two-tailed t-test at an alpha = 0.05 significance
-level, we failed to detect a meaningful relationship between these two
-variables.  Better keep looking!
+Using a two-tailed t-test at alpha = 0.05 significance level, we detect a
+meaningful relationship between these two variables.  
+
+Rock n roll ![rockhands](../images/rockhands.png)
