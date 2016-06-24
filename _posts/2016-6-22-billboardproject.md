@@ -36,4 +36,4 @@ we can see in this scatterplot:
 Using a two-tailed t-test at alpha = 0.05 significance level, we detect a
 meaningful relationship between these two variables.  
 
-Rock n roll ![rockhands](../images/rockhands.jpg)
+Rock n roll
