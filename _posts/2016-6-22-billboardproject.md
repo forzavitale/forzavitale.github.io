@@ -33,7 +33,7 @@ we can see in this scatterplot:
 
 ![barplot](../images/regressionbillboard.png)
 
-Using a two-tailed t-test at alpha = 0.05 significance level, we detect a
+Using a two-tailed t-test at a 0.05 significance level, we detect a
 meaningful relationship between these two variables.  
 
-Rock n roll
+Rock n roll!
