@@ -31,7 +31,7 @@ There appears to be a linear relationship between the amount of time it takes
 a song to reach peak position on the chart and the position ranking itself, as
 we can see in this scatterplot:
 
-![barplot](../images/peakregression.png)
+![barplot](../images/regressionbillboard.png)
 
 Using a two-tailed t-test at alpha = 0.05 significance level, we detect a
 meaningful relationship between these two variables.  
