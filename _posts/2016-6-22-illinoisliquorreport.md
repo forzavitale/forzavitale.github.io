@@ -27,9 +27,3 @@ Using our model for 2015, the predicted total sales for each store in 2016 look 
 ![scatter](../images/predictions2016.png)
 
 Thus, there does not appear to be any projected increase or decrease in total sales, either in individual stores or throughout the entire state of Iowa as a whole.  It is not recommended that any adjustments in tax policy be made on the assumption of changes in alcohol sales such as these.
-
-
-
-
-
-![histo](../images/bottleshisto.png)
