@@ -2,41 +2,65 @@
 layout: Project 4
 title: Indeed.com Salary Analysis
 ---
-In order to make predictions about relative salary information for job listings found on Indeed.com, we have scraped that website and put together a data set to analyze and use for model-building.  We chose to request a maximum of 1,000 listings from each of the 25 most populous cities in the United States.  These cities are, by state (along with Washington, D.C.): \n
-\n
-Arizona: Phoenix \n
-California: Los Angeles, San Diego, San Francisco, San Jose \n
-Colorado: Denver \n
-Florida: Jacksonville \n
-Illinois: Chicago \n
-Indiana: Indianapolis \n
-Massachusetts: Boston \n
-Michigan: Detroit \n
-New York: New York \n
-North Carolina: Charlotte \n
-Ohio: Columbus \n
-Pennsylvania: Philadelphia \n
-Tennessee: Memphis, Nashville \n
-Texas: Austin, Dallas, El Paso, Fort Worth, Houston, San Antonio \n
-Washington: Seattle \n
-\n
-After an initial cleaning, the distribution of observations by state looked like this: \n
-![bar](../images/salarybarwtexas.png) \n
+In order to make predictions about relative salary information for job listings found on Indeed.com, we have scraped that website and put together a data set to analyze and use for model-building.  We chose to request a maximum of 1,000 listings from each of the 25 most populous cities in the United States.  These cities are, by state (along with Washington, D.C.):
 
-And by city, like this: \n
+
+Arizona: Phoenix
+
+California: Los Angeles, San Diego, San Francisco, San Jose
+
+Colorado: Denver
+
+Florida: Jacksonville
+
+Illinois: Chicago
+
+Indiana: Indianapolis
+
+Massachusetts: Boston
+
+Michigan: Detroit
+
+New York: New York
+
+North Carolina: Charlotte
+
+Ohio: Columbus
+
+Pennsylvania: Philadelphia
+
+Tennessee: Memphis, Nashville
+
+Texas: Austin, Dallas, El Paso, Fort Worth, Houston, San Antonio
+
+Washington: Seattle
+
+
+After an initial cleaning, the distribution of observations by state looked like this:
+
+![bar](../images/salarybarwtexas.png)
+
+
+And by city, like this:
+
 ![bar](../images/salarybarwhouston.png)
+
 
 Clearly, there was someting going on in Houston!  After investigating, we realized there was a recruiting agency posting 70+ jobs at various levels, all with the same salary.  This was the only recruiting agency we explicitly removed from the data set, because obviously it was going to affect our median salary calculation.
 
 The distribution of observations then looked like this for the remainder of analysis:
+
 ![bar](../images/salarybarnotexas.png)
 
+
 And like this, by city:
+
 ![bar](../images/salarybarnohouston.png)
 
 Thus, out of a potential 25,000 jobs we requested, after selecting only those with yearly salary information and sorting out the Houston problem, we ended up with 130 usable observations.  The salary distribution, which appears roughly normally-distributed, is shown in the following histogram:
 
 ![histo](../images/salaryhisto.png)
+
 
 To note, the median salary is $120,000 per year.
 
