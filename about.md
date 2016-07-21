@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: A little about me
 permalink: /about/
 ---
 
-Some information about you!
+Data Science Immersive student at General Assembly in NYC.  Data visualization forever. 
+### More info coming soon...
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Say hello!
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[rebecca.e.vitale@domain.com](mailto:email@domain.com)
