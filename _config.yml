@@ -6,10 +6,10 @@
 name: Rebecca Vitale
 
 # Short bio or description (displayed in the header)
-description: welcome to my projects
+description: oh, hello!  welcome to my projects
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:
+avatar: ![image](../images/Michelin_Poster_1898.png)
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email:  rebecca.e.vitale@gmail.com
   facebook:
   flickr:
-  github:  forzavitale
-  instagram:  instagram.com/forzavitale
-  linkedin:  linkedin.com/in/revitale
+  github:  https://github.com/forzavitale
+  instagram:  http://www.instagram.com/forza_vitale
+  linkedin:  https://www.linkedin.com/in/rebecca-vitale
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
