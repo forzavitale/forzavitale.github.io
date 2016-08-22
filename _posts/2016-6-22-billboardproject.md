@@ -1,6 +1,6 @@
 ---
-layout: Billboard Chart Project
-title: Making the Chart -- Neeeed a Liiiittle Patience? 
+layout: post
+title: Making the Chart -- Neeeed a Liiiittle Patience?
 ---
 Wouldn't it be great if we could predict Billboard song behavior??  
 

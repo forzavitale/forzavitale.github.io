@@ -1,5 +1,5 @@
 ---
-layout: Project 3
+layout: post
 title: Illinois Liquor Sales Report
 ---
 We have analyzed the liquor sales for each store using the data provided. Quarterly histograms (2015 Q1-Q4, 2016 Q1) and 2016 total sales histogram are shown here (note scale is different for the 2015 Total Sales histogram):
