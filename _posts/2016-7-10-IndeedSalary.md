@@ -2,6 +2,8 @@
 layout: post
 title: Indeed.com Salary Analysis
 ---
+![histo](../images/salaryhisto.png)
+
 In order to make predictions about relative salary information for job listings found on Indeed.com, we have scraped that website and put together a data set to analyze and use for model-building.  We chose to request a maximum of 1,000 listings from each of the 25 most populous cities in the United States.  These cities are, by state (along with Washington, D.C.):
 
 
