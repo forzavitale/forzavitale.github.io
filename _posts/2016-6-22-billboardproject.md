@@ -2,6 +2,7 @@
 layout: post
 title: Making the Chart -- Neeeed a Liiiittle Patience?
 ---
+![scatter](../images/billboardgenrescatter.png)
 Wouldn't it be great if we could predict Billboard song behavior??  
 
 We investigated the information provided -- which includes data on 317 different
