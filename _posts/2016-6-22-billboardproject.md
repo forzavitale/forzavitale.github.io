@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Making the Chart -- Neeeed a Liiiittle Patience?
+title: Making the Chart -- Need a Little Patience?
 ---
-![scatter](../images/billboardgenrescatter.png)
+![scatter](../images/billboardopeakvtimetopeakscatter.png)
 Wouldn't it be great if we could predict Billboard song behavior??  
 
 We investigated the information provided -- which includes data on 317 different
@@ -21,18 +21,18 @@ factors such as commercial demand for radio airtime) -- pretty normally
 distributed around four minutes, just at a glance.  We can see this nicely
 illustrated in the following histogram:
 
-![barplot](../images/songhisto.png)
+![histo](../images/songhisto.png)
 
 Once a song enters the Billboard charts, this histogram shows that it likely
 attains its peak position or leaves the chart altogether:
 
-![barplot](../images/timepeakhisto.png)
+![boxplot](../images/billboardtimepeakboxplot.png)
 
 There appears to be a linear relationship between the amount of time it takes
 a song to reach peak position on the chart and the position ranking itself, as
 we can see in this scatterplot:
 
-![barplot](../images/regressionbillboard.png)
+![scatter](../images/regressionbillboard.png)
 
 Using a two-tailed t-test at a 0.05 significance level, we detect a
 meaningful relationship between these two variables.  
