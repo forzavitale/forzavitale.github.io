@@ -1,12 +1,12 @@
 ---
 layout: page
-title: A little about me
+title: A little about me...
 permalink: /about/
 ---
 
-Data Science Immersive student at General Assembly in NYC.  Data visualization forever.
+Data visualization-focused, MA in Stats, cooks all the time. 
 
 
-### Say hello!
+### Want to collaborate or just say hi?  E-mail me!
 
 [rebecca.e.vitale@gmail.com](mailto:email@domain.com)
