@@ -3,6 +3,7 @@ layout: post
 title: Who Makes the Chart?
 ---
 ![scatter](../images/billboardpeakvtimetopeakscatter.png)
+
 Wouldn't it be great if we could predict Billboard song behavior??  
 
 We investigated the information provided -- which includes data on 317 different
@@ -14,7 +15,8 @@ tend to enter lower and then peak (instead of peaking and dropping off the
 chart, for example).  Peak position is attained, on average, about seven weeks
 after entry on the chart.
 
-![barplot](../images/billboardbar.png){:height="36px" width="36px" style="float:center"}
++{: .text-center}
+![image alt >](../images/billboardbar.png){:height="36px" width="36px"}
 
 Song length is -- perhaps unsurprisingly (due to human attention span and other
 factors such as commercial demand for radio airtime) -- pretty normally
