@@ -3,7 +3,7 @@ layout: post
 title: Billboard Chart -- Predicting the Hits
 ---
 ![scatter](../images/billboardpeakvtimetopeakscatter.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here I examined data on 317 different songs hitting the Billboard chart in the year 2000.  These variables considered are: song length, chart entry position, peak chart position, and weeks elapsed from entry until peak.  After some cleaning, the box plots below that songs tend to enter lower and then peak (instead of peaking and dropping off the chart, for example).  Peak position is attained, on average, about seven weeks after entry on the chart.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Here](https://github.com/forzavitale/DSI-projects/tree/master/PROJECTS/Billboard%20Chart) I examined data on 317 different songs hitting the Billboard chart in the year 2000.  These variables considered are: song length, chart entry position, peak chart position, and weeks elapsed from entry until peak.  After some cleaning, the box plots below that songs tend to enter lower and then peak (instead of peaking and dropping off the chart, for example).  Peak position is attained, on average, about seven weeks after entry on the chart.
 
 ![boxplot](../images/billboardtimetopeakboxplot.png)
 
