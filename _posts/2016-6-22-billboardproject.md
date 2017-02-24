@@ -12,7 +12,7 @@ title: Billboard Chart -- Predicting the Hits
 
 ![bar](../images/billboardbar.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There appears to be a linear relationship between the amount of time it takes a song to reach peak position on the chart and the peak position, as we can see in the scatterplot below.  We see that at a 0.05 significance level there appears to be a linear relationship between the amount of time it takes a song to reach its peak position, and that peak position.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inspecting the scatterplot below, there appears to be a linear relationship between the amount of time it takes a song to reach peak position on the chart and the peak position; in fact, we see evidence of this at a 0.05 significance level using an OLS regression (broken line, pictured).
 
 ![scatter](../images/billboardpeakvtimetopeakscatter.png)
 
