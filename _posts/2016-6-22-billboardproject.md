@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Billboard Chart -- Predicting the Hits
+title: Billboard Hot 100 -- Worth the Wait
 ---
 ![scatter](../images/billboardpeakvtimetopeakscatter.png)
 
