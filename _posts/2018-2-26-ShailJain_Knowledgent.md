@@ -26,11 +26,12 @@ Shail Jain, Knowledgent CEO,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lastly, and this was not discussed in your office, I wanted to bring up your offer of having dinner at my choice of Italian restaurant in Manhattan (your terms) with you, Tom Johnstone, and Ari Yacobi if I could pull together a D3.js visualization within a set period of time.  All four of us were present in the room for that offer.  I’m curious why you thought I would somehow be interested in spending time with you and two married men outside of working hours instead of, for example, getting a bonus or a promotion or perhaps even a raise to meaningfully acknowledge that and all the other work I was doing for you.  Would you have made the same offer to a hard-working male?  Something tells me you would have thought a bonus were more appropriate.  Maybe I’m wrong.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anyone at Ari Yacobi’s level or under would have throttled me in the upcoming performance review  — what’s that?  The Tableau guy who can’t program?  The one with whom you said another data scientist also cancelled all monthly calls because they’re pointless and another demonstration of an ineffective and tortuous reporting system?  The one who said if he needs “serious data science” done, he goes to the one you and I discussed can’t program?  Please, Shail. —  so I came straight to you with the concerns bulleted above.  We know how that turned out.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anyone at Ari Yacobi’s level or under would have throttled me in the upcoming performance review  — what’s that?  The Tableau guy who can’t program?  The one with whom you said another data scientist also cancelled all monthly calls because they’re pointless and another demonstration of an ineffective and tortuous reporting system?  The one who said if he needs “serious data science” done, he goes to the one you and I discussed can’t program?  Please. —  so I came straight to you with the concerns bulleted above.  We know how that turned out.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I think enough of my sentiment is implicit in what’s written above.  I’ll end by saying that this industry, or any industry, does not have space for the kind of behavior you’ve been enabling.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Best,
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REV
 
 PS -- Several people reached out to me since I quit, and it would be remiss of me not to say how much I appreciate them and miss them.  You guys are great.  Thank you.
