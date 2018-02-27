@@ -4,9 +4,9 @@ title: A little about me...
 permalink: /about/
 ---
 
-Data visualization-focused, MA in Stats, cooks all the time.
+Viz forever, MA in Stats, cooks all the time.
 
 
-### Want to collaborate or say hi?  Contact me!
+<!-- ### Want to collaborate or say hi?  Contact me!
 
-[rebecca.vitale@ga.co](mailto:email@domain.com)
+[rebecca.vitale@ga.co](mailto:email@domain.com) -->
