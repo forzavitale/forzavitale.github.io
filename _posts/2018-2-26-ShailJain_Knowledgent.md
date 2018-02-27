@@ -1,6 +1,10 @@
+---
+layout: post
+title: Letter to Shail Jain
+---
 February 2018
 
-Shail Jain, Knowledgent CEO—
+Shail Jain, Knowledgent CEO,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’ve just gotten off the phone with Kerry Ann, your head of HR; given that she only said the investigation into my complaints is closed and that, “appropriate action has been taken,” I wanted to take the time to write a few notes.  All of this was previously discussed with you in your office on 6 Feb 2018, with Tom Johnstone listening in on the phone for the better part of the conversation.  Quotations are paraphrased unless noted as direct quote.  I gave Gregory Banacki, Knowledgent General Counsel, advance notice of my intention to write this.
 
