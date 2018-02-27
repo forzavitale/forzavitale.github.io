@@ -30,7 +30,7 @@ Shail Jain, Knowledgent CEO,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I think enough of my sentiment is implicit in what’s written above.  I’ll end by saying that this industry, or any industry, does not have space for the kind of behavior you’ve been enabling.
 
-	Best,
-	(me)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Best,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REV
 
 PS -- Several people reached out to me since I quit, and it would be remiss of me not to say how much I appreciate them and miss them.  You guys are great.  Thank you.
