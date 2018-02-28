@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Letter to Shail Jain
+title: Open Letter to Shail Jain
 ---
 February 2018
 
