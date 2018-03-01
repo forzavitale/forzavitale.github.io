@@ -35,3 +35,14 @@ Shail Jain, Knowledgent CEO,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REV
 
 PS -- Several people reached out to me since I quit, and it would be remiss of me not to say how much I appreciate them and miss them.  You guys are great.  Thank you.
+
+
+ADDENDUM 1 Mar 2018
+
+Apparently, Ari Yacobi also goes by Adeel Arif.   
+
+![linkedin](../images/shailjain/Screen Shot 2018-03-01 at 17.54.51.png)
+
+![twitter](../images/shailjain/Screen Shot 2018-03-01 at 18.30.49.png)
+
+![angellist](../images/shailjain/Screen Shot 2018-03-01 at 18.31.45.png)
