@@ -2,7 +2,6 @@
 layout: post
 title: Billboard Hot 100
 ---
-
 ![rnr_country](../images/billboard/rnr_country.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This early project served as an exercise in data cleaning and hypothesis testing (repo [here](https://github.com/forzavitale/BillboardHot100)).  Since the data set was provided as-is with no accompanying information, it is unclear why a bunch of the genres are mislabeled; this also led me generally not to dig much deeper into this data set.  In terms of basic exercises... string manipulation on artist names?  Check!  List comprehensions to convert track length from string to float?  Check!  Gaussian kernel density estimates to visualize smooth curve approximations of song lengths by genre?  Check!
