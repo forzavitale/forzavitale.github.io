@@ -17,8 +17,10 @@ title: Glassdoor.com Data Scientist Postings
 * posted within past two weeks
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The plot above is from EDA; many results came through with a keyword search of "data scientist" which were not true data scientist positions.  It is interesting to see how clustered and distinct the various roles are in terms of the minimum and maximum salaries provided to (or calculated by) Glassdoor.com.  I honed in on the "Computer and Information Research Scientist" category, requiring "Python" as a keyword and excluding "Excel" in the job description, etc.  Here is a bar chart to show the frequency of various words and phrases before the slicing on keywords just mentioned:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The plot above is from EDA; many results came through with a keyword search of "data scientist" which were not true data scientist positions.  It is interesting to see how clustered and distinct the various roles are in terms of the minimum and maximum salaries provided to (or calculated by) Glassdoor.com.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I honed in on the "Computer and Information Research Scientist" category, requiring "Python" as a keyword and excluding "Excel" in the job description, etc.  Before doing that, I plotted a bar chart to show the frequency of various words and phrases in the job descriptions:
 
 ![](../images/glassdoor/keywords.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please see the [repo](https://github.com/forzavitale/GlassdoorDS) for more.  Enjoy!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please see the [repo](https://github.com/forzavitale/GlassdoorDS) for more.  Will possibly do some more heavy duty NLP on the descriptions and salary analysis... incorporation of company reviews section of Glassdoor.com if I'm feeling super into it.  Anyway... enjoy!
