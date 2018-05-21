@@ -1,12 +1,13 @@
 ---
 layout: page
-title: A little about me...
+title: a little about me
 permalink: /about/
 ---
 
-Viz forever, MA in Stats, cooks all the time.
+MA in Stats, viz forever, cooks all the time.
 
 
-<!-- ### Want to collaborate or say hi?  Contact me!
+### Want to collaborate?  Have a comment?  Say hi!
 
-[rebecca.vitale@ga.co](mailto:email@domain.com) -->
+rebecca dot e dot vitale at gmail dot com
+<!-- [rebecca.e.vitale@gmail.com](mailto:email@domain.com) --> -->
