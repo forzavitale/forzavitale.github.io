@@ -3,7 +3,7 @@ layout: post
 title: NYPD Vehicle Accident Reports (2017)
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since 2014, NYC Open Data has provided continually updated vehicle accident report data from the New York Police Department (NYPD).  Find it [here](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since 2014, NYC Open Data has provided continually updated vehicle accident report data from the New York Police Department (NYPD), found [here](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95).  
 
 ## Data set
 
@@ -22,11 +22,11 @@ title: NYPD Vehicle Accident Reports (2017)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the purpose of this exploration, I decided to use only the 2017 observations to get a snapshot of the most recent complete calendar year.  The time values themselves are accurate down to the minute (unknown whether approximate minute of accident or minute recorded by NYPD).
 
 ### &nbsp;&nbsp;Location
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some observations had null entries for latitude and/or longitude; others appeared to be outside NYC-area -- i.e., latitude outside 40.45$^\circ$ to 40.95$^\circ$ N and/or longitude outside 73.7$^\circ$ to 74.3$^\circ$ W -- so an attempt was made to use Google geocode API with street information to get appropriate coordinates.  Of about 11.5k observations missing latitude and/or longitude, approximately 90% had coordinate pairs recovered by the API.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some observations had null entries for latitude and/or longitude; others appeared to be outside NYC-area -- i.e., latitude outside 40.45&deg; to 40.95&deg; N and/or longitude outside 73.7&deg; to 74.3&deg; W -- so an attempt was made to use Google geocode API with street information to get appropriate coordinates.  Of about 11.5k observations missing latitude and/or longitude, approximately 90% had coordinate pairs recovered by the API.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With respect to borough, I used a [shapefile provided by NYC Planning](https://www1.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page) to fill in missing entries.  Turns out I should have used the "water areas included" version instead of the one "clipped to shoreline", since some accidents on bridges and other watery/inter-borough locations did not receive a borough assignment (see map below).  I didn't worry to much about scrapping those if necessary later on, since they only make up less than 1.5% of the total data set at the time of borough assignment (2,924 out of 222,821).
 
-[borough_avail_yesno](../images/NYPD_vehicle_accident_2017/borough_avail_yesno.png)
+[borough_avail_yesno](../images/NYPD_vehicle_accident_2017/borough_avail_yesno.png =250x250)
 
 ## CYCLISTS
 
