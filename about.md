@@ -6,8 +6,6 @@ permalink: /about/
 
 MA in Stats, viz forever, cooks all the time.
 
-
-### Want to collaborate?  Have a comment?  Say hi!
+_Want to collaborate?  Have a comment?  Say hi!_
 
 rebecca dot e dot vitale at gmail dot com
-<!-- [rebecca.e.vitale@gmail.com](mailto:email@domain.com) --> -->
