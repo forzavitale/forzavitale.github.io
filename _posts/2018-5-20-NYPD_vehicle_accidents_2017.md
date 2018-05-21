@@ -2,6 +2,7 @@
 layout: post
 title: NYPD Vehicle Accident Reports (2017)
 ---
+![cyclist](../images/NYPD_vehicle_accident_2017/cyclist.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since 2014, NYC Open Data has provided continually updated vehicle accident report data from the New York Police Department (NYPD), found [here](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95).  
 
