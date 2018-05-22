@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: RV
+name: Rebecca Vitale
 
 # Short bio or description (displayed in the header)
 description: welcome, world!
@@ -18,7 +18,7 @@ avatar: #https://github.com/forzavitale/forzavitale.github.io/blob/master/images
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:  rebecca.e.vitale@gmail.com
+  email:  vitaleforza@gmail.com
   facebook:
   flickr:
   github:  forzavitale
@@ -36,11 +36,11 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-119665615-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://forzavitale.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

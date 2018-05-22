@@ -1,11 +1,9 @@
 ---
 layout: page
-title: a little about me
+title: a little about me...
 permalink: /about/
 ---
 
-MA in Stats, viz forever, cooks all the time.
+MA in Stats, brews kombucha, codes all the time.  Walks all over Brooklyn.
 
-_Want to collaborate?  Have a comment?  Say hi!_
-
-rebecca dot e dot vitale at gmail dot com
+_Want to collaborate?  Have a suggestion?  Say hi!  E-mail button below._
